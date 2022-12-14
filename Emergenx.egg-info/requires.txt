@@ -1,0 +1,8 @@
+random
+altair
+numpy
+pandas
+sklearn
+io
+base64
+PIL>=7.0.0
